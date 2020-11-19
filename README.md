@@ -18,8 +18,8 @@ multiplied by the percentage of votes which went to Biden/Trump.
 
 The result is   
 
-Trump_tax: $ 678.1870617226891 billion  
-Biden_tax: $ 934.0734622773111 billion  
+Trump_tax: $ 678.2 billion  
+Biden_tax: $ 934.1 billion  
 
 This corresponds to a tax per voter of:    
 
